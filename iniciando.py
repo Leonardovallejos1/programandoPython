@@ -1,2 +1,2 @@
-hola="hola Mundo"
-print(hola)
+hola="hola Mundo "
+print(hola*2)
